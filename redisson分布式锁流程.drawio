@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T06:08:57.722Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="zL6BF08DMeZi3Yny2uCs" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T06:11:15.924Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="09ur0SAJRXDXEYGirmsx" version="17.4.6" type="github">
   <diagram id="aVoxe6RSKfypTPcE9i8t" name="第 1 页">
     <mxGraphModel dx="2417" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,8 +40,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-19" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontColor=#FF0000;strokeColor=#000000;fillColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v-TF7MYCDQ0eY6Cro5y1-16" target="v-TF7MYCDQ0eY6Cro5y1-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="v-TF7MYCDQ0eY6Cro5y1-16" value="subscribe&lt;br&gt;订阅锁释放通知" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="370" y="260" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-21" value="semaphore&lt;br&gt;阻塞" style="shape=or;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="70" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
