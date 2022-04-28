@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T06:11:15.924Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="09ur0SAJRXDXEYGirmsx" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T07:06:05.693Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="g3MkBjXkk1zKqMIHOmTa" version="17.4.6" type="github">
   <diagram id="aVoxe6RSKfypTPcE9i8t" name="第 1 页">
-    <mxGraphModel dx="2417" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2152" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v-TF7MYCDQ0eY6Cro5y1-1" target="v-TF7MYCDQ0eY6Cro5y1-2">
+        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00994D;" edge="1" parent="1" source="v-TF7MYCDQ0eY6Cro5y1-1" target="v-TF7MYCDQ0eY6Cro5y1-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-1" value="&lt;b&gt;tryLock&lt;br&gt;尝试加锁&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-1" value="&lt;b&gt;tryLock&lt;br&gt;加锁&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="100" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-7" value="成功 true" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00CC00;strokeColor=#000000;fillColor=#000000;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;fontStyle=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="v-TF7MYCDQ0eY6Cro5y1-2" target="v-TF7MYCDQ0eY6Cro5y1-5">
+        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-7" value="成功 true" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00CC00;strokeColor=#00994D;fillColor=#000000;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;fontStyle=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="v-TF7MYCDQ0eY6Cro5y1-2" target="v-TF7MYCDQ0eY6Cro5y1-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="30" as="targetPoint" />
             <mxPoint x="410" y="80" as="sourcePoint" />
@@ -19,37 +19,56 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-15" value="&lt;font color=&quot;#ff0000&quot;&gt;失败&lt;/font&gt;" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#000000;fillColor=#000000;fontStyle=1;entryPerimeter=0;" edge="1" parent="1" source="v-TF7MYCDQ0eY6Cro5y1-2" target="v-TF7MYCDQ0eY6Cro5y1-16">
+        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-15" value="失败" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#FF0000;fillColor=#000000;fontStyle=1;entryPerimeter=0;" edge="1" parent="1" source="v-TF7MYCDQ0eY6Cro5y1-2" target="v-TF7MYCDQ0eY6Cro5y1-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-2" value="tryAcquire" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-23" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;strokeColor=#FF0000;fillColor=#000000;fontStyle=1" edge="1" parent="1" source="v-TF7MYCDQ0eY6Cro5y1-2" target="v-TF7MYCDQ0eY6Cro5y1-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="609" y="279" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="130" />
+              <mxPoint x="630" y="290" />
+              <mxPoint x="620" y="270" />
+              <mxPoint x="700" y="130" />
+              <mxPoint x="690" y="130" />
+              <mxPoint x="610" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-2" value="tryAcquire&lt;br&gt;&lt;b&gt;尝试获取锁&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="330" y="90" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00CC00;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="v-TF7MYCDQ0eY6Cro5y1-5" target="v-TF7MYCDQ0eY6Cro5y1-1">
+        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00CC00;strokeColor=#00994D;fillColor=#000000;" edge="1" parent="1" source="v-TF7MYCDQ0eY6Cro5y1-5" target="v-TF7MYCDQ0eY6Cro5y1-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-5" value="&lt;font color=&quot;#000000&quot;&gt;请求&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontColor=#00CC00;" vertex="1" parent="1">
+        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-5" value="&lt;font color=&quot;#000000&quot;&gt;Caller&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontColor=#00CC00;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-50" y="90" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-18" value="轮询" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="v-TF7MYCDQ0eY6Cro5y1-16" target="v-TF7MYCDQ0eY6Cro5y1-2">
+        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-18" value="&lt;font color=&quot;#000000&quot;&gt;轮询&lt;/font&gt;" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;strokeColor=#FF0000;fillColor=#000000;fontStyle=1" edge="1" parent="1" source="v-TF7MYCDQ0eY6Cro5y1-16" target="v-TF7MYCDQ0eY6Cro5y1-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-19" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontColor=#FF0000;strokeColor=#000000;fillColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v-TF7MYCDQ0eY6Cro5y1-16" target="v-TF7MYCDQ0eY6Cro5y1-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="310" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-26" value="&lt;font color=&quot;#000000&quot;&gt;锁&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;释放&lt;/span&gt;&lt;font color=&quot;#000000&quot;&gt;通知&lt;/font&gt;" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF8000;strokeColor=#FF0000;fillColor=#000000;fontStyle=1" edge="1" parent="1" source="v-TF7MYCDQ0eY6Cro5y1-16" target="v-TF7MYCDQ0eY6Cro5y1-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-16" value="subscribe&lt;br&gt;订阅锁释放通知" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-16" value="&lt;font color=&quot;#000000&quot;&gt;subscribe&lt;br&gt;订阅锁释放通知&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="370" y="260" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-21" value="semaphore&lt;br&gt;阻塞" style="shape=or;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="560" y="270" width="70" height="90" as="geometry" />
+        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-24" value="&lt;span style=&quot;font-weight: 700&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;成功 true&lt;/font&gt;&lt;/span&gt;" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontColor=#FF0000;strokeColor=#FF0000;fillColor=#000000;exitX=0.183;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="v-TF7MYCDQ0eY6Cro5y1-25" target="v-TF7MYCDQ0eY6Cro5y1-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="609" y="351" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="300" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-25" value="&lt;span style=&quot;color: rgb(255 , 0 , 0) ; font-weight: 700&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;semaphore&lt;/font&gt;&lt;/span&gt;&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 11px ; font-weight: 700&quot;&gt;&lt;br&gt;阻塞&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
