@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T06:07:59.130Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="4pIn15i0RpF-Oq9OrT_P" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T06:08:57.722Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="zL6BF08DMeZi3Yny2uCs" version="17.4.6" type="github">
   <diagram id="aVoxe6RSKfypTPcE9i8t" name="第 1 页">
     <mxGraphModel dx="2417" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,6 +32,13 @@
         </mxCell>
         <mxCell id="v-TF7MYCDQ0eY6Cro5y1-5" value="&lt;font color=&quot;#000000&quot;&gt;请求&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="-50" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v-TF7MYCDQ0eY6Cro5y1-18" value="轮询" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;strokeColor=#000000;fillColor=#000000;" edge="1" parent="1" source="v-TF7MYCDQ0eY6Cro5y1-16" target="v-TF7MYCDQ0eY6Cro5y1-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v-TF7MYCDQ0eY6Cro5y1-16" value="subscribe&lt;br&gt;订阅锁释放通知" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="370" y="260" width="80" height="100" as="geometry" />
