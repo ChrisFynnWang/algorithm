@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T03:40:01.000Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="17.4.6" etag="9jGKRdw6lIAzZkMLzqYN" type="github"><diagram id="qcyk_ffaBSStTA5_sL3B">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-13T03:48:25.684Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="oAi2d0eE5hVi_X_Gy4GA" version="17.4.6" type="github">
+  <diagram id="qcyk_ffaBSStTA5_sL3B" name="第 1 页">
+    <mxGraphModel dx="1594" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RSqe4__9yCySRh9hbMFA-1" value="producer 0&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSqe4__9yCySRh9hbMFA-2" value="producer 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSqe4__9yCySRh9hbMFA-3" value="producer 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSqe4__9yCySRh9hbMFA-5" value="Topic 0" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RSqe4__9yCySRh9hbMFA-6" value="Topic 1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RSqe4__9yCySRh9hbMFA-7" value="Broker 0" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="200" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="RSqe4__9yCySRh9hbMFA-10" value="Broker 1" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="700" y="100" width="200" height="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
