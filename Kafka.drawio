@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T03:48:25.684Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="oAi2d0eE5hVi_X_Gy4GA" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T03:48:49.069Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="QoudQA9T5i-vHFfug7WE" version="17.4.6" type="github">
   <diagram id="qcyk_ffaBSStTA5_sL3B" name="第 1 页">
     <mxGraphModel dx="1594" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,10 +20,13 @@
           <mxGeometry x="240" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RSqe4__9yCySRh9hbMFA-7" value="Broker 0" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="400" y="100" width="200" height="380" as="geometry" />
+          <mxGeometry x="420" y="100" width="200" height="380" as="geometry" />
         </mxCell>
         <mxCell id="RSqe4__9yCySRh9hbMFA-10" value="Broker 1" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="700" y="100" width="200" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="RSqe4__9yCySRh9hbMFA-11" value="Broker 2" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="980" y="100" width="200" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
