@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T02:52:03.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6m8w6QffA7EATEbYYxTh" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T02:53:20.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="OBDE_dWtjJOoxL6Zzrtw" version="20.2.6" type="github">
   <diagram id="4WhJq_c2hJGKalem2-71" name="第 1 页">
     <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tj6sGX2Gv8RbAJB5ziJA-1" value="&lt;b&gt;nacos&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tj6sGX2Gv8RbAJB5ziJA-1" value="&lt;b&gt;Nacos&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="130" width="180" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="tj6sGX2Gv8RbAJB5ziJA-7" value="Sentinel Dashboard" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="90" y="310" width="190" height="140" as="geometry" />
+        <mxCell id="tj6sGX2Gv8RbAJB5ziJA-9" value="App" style="triangle;whiteSpace=wrap;html=1;direction=north;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="650" y="310" width="173.33" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tj6sGX2Gv8RbAJB5ziJA-10" value="Sentinel Dashboard" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="165" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
