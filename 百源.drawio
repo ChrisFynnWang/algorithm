@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T07:10:01.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="LKBYXe9V_NdmBRXLmgtz" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T07:20:53.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="BAG9soowa7zoL1SMBhJj" version="20.3.0" type="github">
   <diagram id="Tg5pM88NMdGY_b3UIndQ" name="第 1 页">
-    <mxGraphModel dx="2187" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3921" dy="1337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,50 +137,74 @@
         <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-42" value="&lt;b&gt;5.返回业务数据&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="760" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-99" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="790" width="270" height="560" as="geometry" />
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-185" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="1330" width="880" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-105" value="角色资源" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-290" y="980" width="72.3" height="53.5" as="geometry" />
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-186" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="1440" width="530" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-106" value="业务数据资源" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-290" y="1171.75" width="72.3" height="53.5" as="geometry" />
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-187" value="&lt;b&gt;APP&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-443" y="1470" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-107" value="按钮权限资源" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-290" y="1075" width="72.3" height="53.5" as="geometry" />
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-188" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="1500" width="270" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-108" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="991.75" width="20" height="120" as="geometry" />
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-189" value="角色资源" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-355" y="1690" width="72.3" height="53.5" as="geometry" />
         </mxCell>
-        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-109" value="功能性资源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-190" y="1036.75" width="80" height="30" as="geometry" />
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-190" value="业务数据资源" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-355" y="1881.75" width="72.3" height="53.5" as="geometry" />
         </mxCell>
-        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-110" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="1171.75" width="20" height="76.75" as="geometry" />
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-191" value="按钮权限资源" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-355" y="1785" width="72.3" height="53.5" as="geometry" />
         </mxCell>
-        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-111" value="业务性资源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-190" y="1195.25" width="80" height="30" as="geometry" />
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-192" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="1701.75" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-112" value="其他资源" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-290" y="1260" width="72.3" height="53.5" as="geometry" />
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-193" value="功能性资源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-255" y="1746.75" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-130" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Resource&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-275" y="840" width="60" height="30" as="geometry" />
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-194" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="1881.75" width="20" height="76.75" as="geometry" />
         </mxCell>
-        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-131" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-570" y="800" width="130" height="530" as="geometry" />
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-195" value="业务性资源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-255" y="1905.25" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-132" value="角色组" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/group-customers-team-contacts-family-128.png;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-539.75" y="990" width="70" height="70" as="geometry" />
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-196" value="其他资源" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-355" y="1970" width="72.3" height="53.5" as="geometry" />
         </mxCell>
-        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-133" value="数据组" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-7/512/Hierarchy_organization_team_diagram_order_hierarchical_structure_teamwork-128.png;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-544.25" y="1091.75" width="79" height="79" as="geometry" />
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-197" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Resource&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="1550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-134" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;虚拟组&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-7/512/Hierarchy_organization_members_team_teamwork-128.png;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-539.75" y="1213.5" width="75" height="75" as="geometry" />
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-198" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-635" y="1510" width="130" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-135" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Role/Group&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-535" y="840" width="60" height="30" as="geometry" />
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-199" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;startArrow=none;startFill=0;" edge="1" parent="1" source="oTmZ-C7Nvv7YUmRwg-Ib-201" target="oTmZ-C7Nvv7YUmRwg-Ib-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-200" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;startArrow=none;startFill=0;" edge="1" parent="1" source="oTmZ-C7Nvv7YUmRwg-Ib-201" target="oTmZ-C7Nvv7YUmRwg-Ib-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-201" value="角色组" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/group-customers-team-contacts-family-128.png;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-604.75" y="1700" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-202" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;startArrow=none;startFill=0;" edge="1" parent="1" source="oTmZ-C7Nvv7YUmRwg-Ib-203" target="oTmZ-C7Nvv7YUmRwg-Ib-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-203" value="数据组" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-7/512/Hierarchy_organization_team_diagram_order_hierarchical_structure_teamwork-128.png;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-609.5" y="1810" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-204" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;startArrow=none;startFill=0;" edge="1" parent="1" source="oTmZ-C7Nvv7YUmRwg-Ib-205" target="oTmZ-C7Nvv7YUmRwg-Ib-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-205" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;虚拟组&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-7/512/Hierarchy_organization_members_team_teamwork-128.png;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-604.75" y="1923.5" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-206" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Role/Group&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-207" value="&lt;b&gt;Namespace&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-435" y="1360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
