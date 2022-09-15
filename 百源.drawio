@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T06:56:32.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="8Kii0dIVLnZgHg_Fq4U5" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T06:57:47.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="0f9SejeNRPMjveaLQE-M" version="20.3.0" type="github">
   <diagram id="Tg5pM88NMdGY_b3UIndQ" name="第 1 页">
     <mxGraphModel dx="2187" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,6 +152,15 @@
         <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-46" value="权限Server" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-290" y="590" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="oTmZ-C7Nvv7YUmRwg-Ib-55" target="oTmZ-C7Nvv7YUmRwg-Ib-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="oTmZ-C7Nvv7YUmRwg-Ib-55" target="oTmZ-C7Nvv7YUmRwg-Ib-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="oTmZ-C7Nvv7YUmRwg-Ib-55" target="oTmZ-C7Nvv7YUmRwg-Ib-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-55" value="资源" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_cube.svg;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-670" y="820" width="90" height="100" as="geometry" />
         </mxCell>
@@ -163,6 +172,18 @@
         </mxCell>
         <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-58" value="按钮权限资源" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-530" y="843.25" width="72.3" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-65" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="760" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-66" value="功能性资源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-430" y="805" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-67" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="940" width="20" height="76.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-68" value="业务性资源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-430" y="963.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
