@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T06:51:17.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="niIol-6D0VsZ0Kt-oD4i" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T06:55:37.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="P_ySXkZ5HsKLh8Po0Tib" version="20.3.0" type="github">
   <diagram id="Tg5pM88NMdGY_b3UIndQ" name="第 1 页">
     <mxGraphModel dx="2187" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,6 +151,18 @@
         </mxCell>
         <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-46" value="权限Server" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-290" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-55" value="资源" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_cube.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-670" y="820" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-56" value="角色资源" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-530" y="748.25" width="72.3" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-57" value="业务数据" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-530" y="840" width="72.3" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-58" value="业务数据" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-530" y="930" width="72.3" height="53.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
