@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T07:15:45.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="tEb1VQvD_bD3tS-xLMXl" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-20T07:19:30.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="qRzIDVZfVc2STXb55DIw" version="20.3.3" type="github">
   <diagram id="Tg5pM88NMdGY_b3UIndQ" name="第 1 页">
     <mxGraphModel dx="3354" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -538,8 +538,8 @@
         <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-382" value="关联资源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-850" y="3880" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-383" value="&lt;h1&gt;说明&lt;/h1&gt;&lt;p&gt;1. 主数据为基础数据，可通过WS自定义&lt;/p&gt;&lt;p&gt;2. 数据组是数据资源的一个子集&lt;/p&gt;&lt;p&gt;3.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-1227.31" y="4420" width="478" height="260" as="geometry" />
+        <mxCell id="oTmZ-C7Nvv7YUmRwg-Ib-383" value="&lt;h1&gt;说明&lt;/h1&gt;&lt;p&gt;1. 主数据为基础数据，可通过WS自定义&lt;/p&gt;&lt;p&gt;2. 数据组是数据资源的一个子集&lt;/p&gt;&lt;p&gt;3. 不能直接为子账号配置数据组，需要先配置角色，再配置角色关联的数据资源所包含的数据组&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-1227.31" y="4420" width="647.31" height="260" as="geometry" />
         </mxCell>
         <mxCell id="8w-y8a9ehocR5AwVEYqw-2" value="组织机构-SAP" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-457.7500000000001" y="3911.75" width="103.38" height="76.5" as="geometry" />
