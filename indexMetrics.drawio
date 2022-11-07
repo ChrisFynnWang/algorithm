@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T08:30:24.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="JeeGO7WE36W9V4IiKz-b" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T08:33:25.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="zYaEHjVmNdMty52kGyA5" version="20.5.1" type="github">
   <diagram id="7I6s-KUDsDrvL7AvKa_N" name="第 1 页">
-    <mxGraphModel dx="2177" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1952" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
           <mxGeometry x="650" y="40" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tu1LMPSPsvWpRj28qPW7-6" value="tb_evaluation_metrics_summary_snapshot" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="650" y="160" width="260" height="60" as="geometry" />
+          <mxGeometry x="650" y="202" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tu1LMPSPsvWpRj28qPW7-11" value="移动端-月度报告" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1040" y="40" width="120" height="60" as="geometry" />
@@ -48,19 +48,42 @@
         <mxCell id="Tu1LMPSPsvWpRj28qPW7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tu1LMPSPsvWpRj28qPW7-22" target="Tu1LMPSPsvWpRj28qPW7-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="225" />
+              <mxPoint x="540" y="70" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tu1LMPSPsvWpRj28qPW7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tu1LMPSPsvWpRj28qPW7-22" target="Tu1LMPSPsvWpRj28qPW7-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Tu1LMPSPsvWpRj28qPW7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Tu1LMPSPsvWpRj28qPW7-22" target="Tu1LMPSPsvWpRj28qPW7-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="225" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Tu1LMPSPsvWpRj28qPW7-29" value="移动端-技术指标" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="290" width="140" height="60" as="geometry" />
+          <mxGeometry x="650" y="290" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tu1LMPSPsvWpRj28qPW7-32" value="TechMetricsController" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="Tu1LMPSPsvWpRj28qPW7-29">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        <mxCell id="Tu1LMPSPsvWpRj28qPW7-32" value="vqmp-TechMetricsController" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="Tu1LMPSPsvWpRj28qPW7-29">
+          <mxGeometry y="30" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tu1LMPSPsvWpRj28qPW7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tu1LMPSPsvWpRj28qPW7-22" target="Tu1LMPSPsvWpRj28qPW7-29">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="225" />
+              <mxPoint x="540" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu1LMPSPsvWpRj28qPW7-41" value="PC端-技术指标" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="390" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu1LMPSPsvWpRj28qPW7-42" value=" vqmp-TechMetricsController" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="Tu1LMPSPsvWpRj28qPW7-41">
+          <mxGeometry y="30" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu1LMPSPsvWpRj28qPW7-43" value="dev-IndexMetricsController" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="Tu1LMPSPsvWpRj28qPW7-41">
+          <mxGeometry y="60" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu1LMPSPsvWpRj28qPW7-44" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Tu1LMPSPsvWpRj28qPW7-41">
+          <mxGeometry y="90" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
