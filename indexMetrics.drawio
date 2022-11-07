@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T06:24:55.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="LJFzz1mbdhlD9nuPxRRN" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T06:25:01.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="-nABw5PinHWfZ7c-wGLU" version="20.5.1" type="github">
   <diagram id="7I6s-KUDsDrvL7AvKa_N" name="第 1 页">
     <mxGraphModel dx="2177" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,10 +28,10 @@
         <mxCell id="Tu1LMPSPsvWpRj28qPW7-17" value="dm_eff_jira_requirement_org_statistics" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="Tu1LMPSPsvWpRj28qPW7-16">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tu1LMPSPsvWpRj28qPW7-18" value="tdata_sys_available_rate_result" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Tu1LMPSPsvWpRj28qPW7-16">
+        <mxCell id="Tu1LMPSPsvWpRj28qPW7-18" value="tdata_sys_available_rate_result" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="Tu1LMPSPsvWpRj28qPW7-16">
           <mxGeometry y="60" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tu1LMPSPsvWpRj28qPW7-19" value="sys_abnormal_rate_result" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Tu1LMPSPsvWpRj28qPW7-16">
+        <mxCell id="Tu1LMPSPsvWpRj28qPW7-19" value="sys_abnormal_rate_result" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=1" vertex="1" parent="Tu1LMPSPsvWpRj28qPW7-16">
           <mxGeometry y="90" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tu1LMPSPsvWpRj28qPW7-20" value="*_snapshot" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
